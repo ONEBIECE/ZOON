@@ -1,0 +1,71 @@
+rm -rf /storage/emulated/0/.backups
+rm -rf /sdcard/.backups
+rm -rf /sdcard/.estrongs
+rm -rf /sdcard/.a.dat
+rm -rf /sdcard/.DataStorage
+rm -rf /sdcard/.aptoide
+rm -rf /sdcard/.DataStorage
+rm -rf /sdcard/.cc
+rm -rf /sdcard/.um
+rm -rf /sdcard/.face
+rm -rf /sdcard/.uxx
+rm -rf /sdcard/.UTSystemConfig
+rm -rf /sdcard/backups
+rm -rf /sdcard/amap
+rm -rf /sdcard/dctp
+rm -rf /sdcard/did
+rm -rf /sdcard/log
+rm -rf /sdcard/MidasOversea
+rm -rf /sdcard/tencent
+rm -rf /sdcard/QTAudioEngine
+rm -rf /sdcard/register.log
+rm -rf /sdcard/blackbox/Android/.Trash
+rm -rf /sdcard/blackbox/Android/obj
+rm -rf /sdcard/.DataStorage
+rm -rf /sdcard/.UTSystemConfig
+touch /sdcard/tencent
+touch /sdcard/.backups
+touch /sdcard/MidasOversea
+rm -rf /storage/emulated/0/.backups
+rm -rf /sdcard/blackbox/.backups
+rm -rf /sdcard/blackbox/.estrongs
+rm -rf /sdcard/blackbox/.a.dat
+rm -rf /sdcard/blackbox/.DataStorage
+rm -rf /sdcard/blackbox/.aptoide
+rm -rf /sdcard/blackbox/.DataStorage
+rm -rf /sdcard/blackbox/.cc
+rm -rf /sdcard/blackbox/.um
+rm -rf /sdcard/blackbox/.face
+rm -rf /sdcard/blackbox/.uxx
+rm -rf /sdcard/blackbox/.UTSystemConfig
+rm -rf /sdcard/blackbox/backups
+rm -rf /sdcard/blackbox/amap
+rm -rf /sdcard/blackbox/dctp
+rm -rf /sdcard/blackbox/did
+rm -rf /sdcard/blackbox/log
+rm -rf /sdcard/blackbox/MidasOversea
+rm -rf /sdcard/blackbox/tencent
+rm -rf /sdcard/blackbox/QTAudioEngine
+rm -rf /sdcard/blackbox/register.log
+rm -rf /sdcard/blackbox/Android/.Trash
+rm -rf /sdcard/blackbox/Android/obj
+rm -rf /sdcard/blackbox/.DataStorage
+rm -rf /sdcard/blackbox/.UTSystemConfig
+touch /sdcard/blackbox/tencent
+touch /sdcard/blackbox/.backups
+touch /sdcard/blackbox/MidasOversea
+rm -rf /sdcard/blackbox/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/SaveGames/*.json
+rm -rf /sdcard/blackbox/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/UpdateInfo/*
+rm -rf /sdcard/blackbox/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs
+rm -rf /sdcard/blackbox/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Pandora
+touch /sdcard/blackbox/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs
+touch /sdcard/blackbox/Android/data/com.pubg.imobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Pandora
+rm -rf /storage/emulated/0/Android/data/com.pubg.imobile/files/login-identifier.txt
+rm -rf /data/data/com.ayan.hax/blackbox/data/user/0/com.pubg.imobile/files
+rm -rf /data/data/com.ayan.hax/blackbox/data/user/0/com.pubg.imobile/app*
+rm -rf /data/data/com.ayan.hax/blackbox/data/user/0/com.pubg.imobile/cache
+rm -rf /data/data/com.ayan.hax/blackbox/data/user/0/com.pubg.imobile/databases
+touch /data/data/com.ayan.hax/blackbox/data/user/0/com.pubg.imobile/files
+touch /data/data/com.ayan.hax/blackbox/data/user/0/com.pubg.imobile/app_crashrecord
+touch /data/data/com.ayan.hax/blackbox/data/user/0/com.pubg.imobile/cache
+
